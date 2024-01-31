@@ -1,3 +1,7 @@
+<p align="center">
+     <img src="circular_manners_logo.png" alt="Your Image Description" style="border-radius: 50%; width: 200px; height: 200px;"/>
+
+ </p>
 <h2 align="center">Manner-rs</h2>
 
 "Where are my manners?" <br>
